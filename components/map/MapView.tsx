@@ -59,7 +59,7 @@ export default function MapView() {
 
   return (
     <MapContainer
-      center={[6.1370, 1.2135]}
+      center={[6.1750, 1.2150]}
       zoom={17}
       style={{ height: '100vh', width: '100%' }}
     >
